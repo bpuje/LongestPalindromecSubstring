@@ -1,4 +1,4 @@
-package com.example.LongestPalindromecSubstring.problem2;
+package problem2;
 
 import java.util.Arrays;
 
